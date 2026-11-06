@@ -8,6 +8,6 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
-ilattice = "0.1"
+ilattice = { git = "https://www.github.com/ColinGilbert/ilattice-rs.git", branch = "main" }
 ndshape = "0.3"
 ndcopy = "0.3"
